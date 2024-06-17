@@ -1,0 +1,41 @@
+.esquerda1{
+background-color: blue;
+position: fixed;
+padding: 20px;
+left: 100px;
+color: white;
+}
+
+.esquerda2{
+background-color: yellow;
+position: fixed;
+bottom: 20px;
+left: 100px;
+color: white;
+}
+
+.direita1{
+background-color: black;
+position: fixed;
+padding: 20px;
+right: 100px;
+color: white;
+}
+
+.direita2{
+background-color: green;
+position: fixed;
+bottom: 20px;
+right: 100px;
+color: white;
+}
+
+.tudo{
+border: solid;
+border-left: solid;
+border-right: solid;
+border-bottom: solid;    
+width: 1550px;
+height: 755px;
+background-color: cyan;
+}
